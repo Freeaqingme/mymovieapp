@@ -6,7 +6,7 @@ class CreateMovies < ActiveRecord::Migration
       t.string :director
       t.text :synopsis
       t.string :imdbid
-      t.string :number
+      t.integer :number
       t.timestamps null: false
     end
   end
