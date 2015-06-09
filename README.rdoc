@@ -1,1 +1,1 @@
-A simple app made during Railsgirls Groningen (5-6 June 2015) that uses Ariejan's IMDb API to fetch a movie's name, director, date of release, synopsis and poster by entering the IMDb URL.
+A simple app made during Railsgirls Groningen (5-6 June 2015) that uses [Ariejan's IMDb RoR API](https://github.com/ariejan/imdb) to fetch a movie's name, director, date of release, synopsis and poster by entering the IMDb URL.
